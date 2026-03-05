@@ -395,7 +395,7 @@
     },
     "com.unity.ugui": {
       "version": "2.0.0",
-      "depth": 0,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
@@ -423,7 +423,7 @@
       "url": "https://packages.unity.com"
     },
     "playbox": {
-      "version": "https://github.com/playbox-technologies/playbox-sdk.git",
+      "version": "https://github.com/playbox-technologies/playbox-sdk.git#main",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -444,7 +444,7 @@
       "hash": "01d3e6ccce06d7a2facfcc7fbb8c1e02a453b0b1"
     },
     "playbox-installer": {
-      "version": "https://github.com/playbox-technologies/playbox-installer.git#main",
+      "version": "https://github.com/playbox-technologies/playbox-installer.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
